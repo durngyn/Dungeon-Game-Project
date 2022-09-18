@@ -1,16 +1,12 @@
 /*
-GROUP #15 - Sec #5
-Charlene Tran - 028606667
-Darren Nguyen - 025951183
-Twan Tran - 029136612
+
+Charlene Tran
+Darren Nguyen
+Twan Tran
 3/27/2022
     
 This program involves a user exploring a dungeon maze while also fighting monsters along the way. The attack types of enemies can consist of either warrior, wizard, or ranger while the hero has access to all three types. Throughout the journey, the hero can obtain gold, increase his/her level, and purchase items. The game ends once the user quits or dies. 
 
-Work Split: 
-Charlene - main, menu, hero, map, monster room, fight
-Darren - hero, enemy generator, map, main, store, menu
-Twan - Map, Ranger, Warrior, Wizard, Magical, Archer, Fighter, Entity, main
 */
 
 import java.util.*;
